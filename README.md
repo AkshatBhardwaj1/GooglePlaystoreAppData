@@ -1,5 +1,6 @@
 # GooglePlaystoreAppData
 Assignment from Udacity data scientist program
+Link to the blog- https://medium.com/@akshatbhardwaj_33992/ever-wondered-launching-your-own-app-on-google-playstore-f1adecc5e2f
 
 I selected this dataset from Kaggle for Udacity assignment where I had to analyse the data using my imagination and knowledge and write a blog which shall be evaluated.
 
@@ -16,7 +17,7 @@ This file contains the first 'most relevant' 100 reviews for each app. Each revi
 
 One additional thing I would like to do is run different models like Gaussian Naive and Stochastic models on this dataset. But the dataset is too parse to find good enough results.
 
-# Evaluation and Analysis of results
+Evaluation and Analysis of results
 
     Evaluate the mean squared error MSE- 
         Case One- Target Label = 'Rating' (1.3819674820377472e-08, 'Reviews'), (1.0710294006119369e-10,'Installs')
