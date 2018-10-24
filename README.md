@@ -15,6 +15,9 @@ This file contains the first 'most relevant' 100 reviews for each app. Each revi
 2. Find a pattern of user reviews related to category of apps.
 3. Predict pricing in relation to number of installations.
 
+Reference links- https://en.wikipedia.org/wiki/Coefficient_of_determination
+http://statisticsbyjim.com/regression/interpret-r-squared-regression/
+
 One additional thing I would like to do is run different models like Gaussian Naive and Stochastic models on this dataset. But the dataset is too parse to find good enough results.
 
 Evaluation and Analysis of results
